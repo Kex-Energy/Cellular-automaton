@@ -1,0 +1,17 @@
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\bin\Debug\net6.0-windows\Trpo1.1.exe
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\bin\Debug\net6.0-windows\Trpo1.1.deps.json
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\bin\Debug\net6.0-windows\Trpo1.1.runtimeconfig.json
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\bin\Debug\net6.0-windows\Trpo1.1.dll
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\bin\Debug\net6.0-windows\Trpo1.1.pdb
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.csproj.AssemblyReference.cache
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1._1.Form1.resources
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.csproj.GenerateResource.cache
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.AssemblyInfoInputs.cache
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.AssemblyInfo.cs
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.csproj.CoreCompileInputs.cache
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.dll
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\refint\Trpo1.1.dll
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.pdb
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\Trpo1.1.genruntimeconfig.cache
+C:\Users\DimkaTvoyDrug\source\repos\Trpo1.1\Trpo1.1\obj\Debug\net6.0-windows\ref\Trpo1.1.dll
